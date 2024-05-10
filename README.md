@@ -1,5 +1,5 @@
 <h1>Output</h1>
-![436029306_416772590984538_2461062259299475360_n](https://github.com/vaibhavtrivedi2002/QRCodeGenerator/assets/123184825/26282ff3-49b4-4374-982d-6f745820b082)
+![Screenshot 2024-05-10 064546](https://github.com/vaibhavtrivedi2002/QRCodeGenerator/assets/123184825/5c2180c7-49b7-447a-a9ea-c5c60a2339e6)
 
 
 Make sure you have the qrcode library installed.<br/>
