@@ -1,5 +1,6 @@
-<h1>Output</h1><br>
-https://photos.app.goo.gl/b6rE231qA5cshKj88
+<h1>Output</h1>
+![436029306_416772590984538_2461062259299475360_n](https://github.com/vaibhavtrivedi2002/QRCodeGenerator/assets/123184825/763f6352-0081-40bd-b405-075eaefa7a9d)
+
 
 Make sure you have the qrcode library installed.<br/>
 
